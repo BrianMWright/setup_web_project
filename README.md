@@ -49,7 +49,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 ## Credits and Acknowledgments
 
@@ -63,4 +63,4 @@ This project is a result of a collaborative interaction between human creativity
 
 Brian Wright – [BrianWrightDeveloper@gmail.com](mailto:BrianWrightDeveloper@gmail.com)
 
-Project Link: [https://github.com/BrianMWright/setup_web_project] ([https://github.com/yourusername/your-project-name](https://github.com/BrianMWright/setup_web_project/)
+Project Link: [Setup Web Project on GitHub](https://github.com/BrianMWright/setup_web_project)
