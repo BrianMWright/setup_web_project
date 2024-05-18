@@ -63,4 +63,4 @@ This project is a result of a collaborative interaction between human creativity
 
 Brian Wright – [BrianWrightDeveloper@gmail.com](mailto:BrianWrightDeveloper@gmail.com)
 
-Project Link: [https://github.com/BrianMWright/setup_web_project/ (https://github.com/yourusername/your-project-name)
+Project Link: [https://github.com/BrianMWright/setup_web_project] ([https://github.com/yourusername/your-project-name](https://github.com/BrianMWright/setup_web_project/)
